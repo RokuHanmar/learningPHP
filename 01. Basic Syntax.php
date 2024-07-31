@@ -1,13 +1,13 @@
 <?php
 
-    // Hello World
+    // Echo
     echo "Hello, World!";
 
     // Variable declaration
     $name = "Bob";
     echo "<p>Hello, $name</p>";
 
-    // if statement
+    // Conditional
     $age = 20;
     if ($age >= 18) {
         echo "<p>Adult</p>";
