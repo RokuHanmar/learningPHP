@@ -1,0 +1,21 @@
+<?php
+
+// String
+$name = "String";
+
+// Integer
+$age = 50;
+
+// Boolean
+$isOld = true;  // Note: Both true and True are valid
+
+// Float
+$Pi = 3.14;
+
+echo "<p>Am I old?". ($isOld ? "Yes" : "No"). "</p>"; // inline if statement: if isOld == True, print "Yes" else print "No"
+
+$greeting = "Hello";
+$greeting .= ", World!";  // string concatenation
+echo $greeting;
+
+?>
