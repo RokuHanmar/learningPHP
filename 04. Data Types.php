@@ -21,5 +21,9 @@
     echo "<br>". $Array[0]."<br>";
     var_dump($Array);
 
+    // Null
+    $Null = null;
+    echo "<br>". $Null."<br>";
+    var_dump($Null);
 
 ?>
