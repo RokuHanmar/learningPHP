@@ -16,4 +16,10 @@
     echo "<br>". $Boolean."<br>";
     var_dump($Boolean);
 
+    //Array
+    $Array = ["1", "2", "3"];
+    echo "<br>". $Array[0]."<br>";
+    var_dump($Array);
+
+
 ?>
