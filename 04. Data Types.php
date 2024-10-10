@@ -10,4 +10,10 @@
     echo "<br>". $Number."<br>";
     var_dump($Number);
 
+
+    // Boolean
+    $Boolean = false;
+    echo "<br>". $Boolean."<br>";
+    var_dump($Boolean);
+
 ?>
